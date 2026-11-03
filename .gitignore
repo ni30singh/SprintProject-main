@@ -1,0 +1,6 @@
+# Project exclude paths
+/Advisor/Advisor/target/
+/apigateway 1/apigateway/target/
+/Complaint 1/Complaint/target/
+/Consumer 1/Consumer/target/
+/KnowledgeBase 1/KnowledgeBase/target/
